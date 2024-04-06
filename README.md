@@ -1,5 +1,9 @@
-# Trivagro
+<img src="https://github.com/monizb/trivagro/assets/46259712/e3d4779b-073f-4fb3-b909-a8ee0ef3146c" width="200">
+
 Compare online grocery prices from major apps like Blinkit, BigBasket, Zepto and Instamart
+
+![image](https://github.com/monizb/trivagro/assets/46259712/865e61da-f3d6-473d-956a-82146831960b)
+
 
 ## How to run
 - Clone and install frontend code with npm i and start with npm start
