@@ -13,4 +13,4 @@ Compare online grocery prices from major apps like Blinkit, BigBasket, Zepto and
 - [ ] Be able to set a price tracker with alerting
 
 ## Disclaimer
-This project is meant to be used offline on your own local machine to help you search the best grocery prices without having to go around looking everywhere. It's not supposed to be deployed or to be used to make revenue. Use it safely and responsibly.
+This project is meant to be used offline on your own local machine to help you search the best grocery prices without having to go around looking everywhere. It's not supposed to be deployed or to be used to make revenue. Use it safely and responsibly. This project is for "EDUCATIONAL" purposes only.
